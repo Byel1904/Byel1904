@@ -30,7 +30,7 @@ Estou aprendendo desenvolvimento de software e já crio projetos reais com Pytho
 | Repositório | Descrição | Linguagem |
 |---|---|---|
 | [🎬 AulasPython](https://github.com/Byel1904/AulasPython) | App desktop para buscar filmes e descobrir em qual streaming assistir | Python |
-| [👤 Gabryel](https://github.com/Byel1904/Gabryel) | Repositório pessoal com projetos e experimentos | — |
+
 
 ---
 
