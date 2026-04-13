@@ -93,7 +93,7 @@ Personal profile repository and general projects.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabryel%20S.-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[FILL-IN])
 [![GitHub](https://img.shields.io/badge/GitHub-Byel1904-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Byel1904)
-[![Instagram](https://img.shields.io/badge/Instagram-@[FILL--IN]-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/[FILL-IN])
+[![Instagram](https://img.shields.io/badge/Instagram-@[FILL--IN]-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/byllclh__/)
 
 </div>
 
