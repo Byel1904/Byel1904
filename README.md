@@ -42,13 +42,14 @@ Sou um jovem de 18 Anos, atualmente cursando o Técnico de Desenvolvimento de Si
 <td width="50%" valign="top">
 
 ### 🛡️ GuardianNet
-> Python Studies & Exercises
+> Proteção Digital com Inteligência Artificial
 
-A repository with classes, exercises and projects developed during my Python learning journey. Covers everything from basic logic to intermediate language concepts.
+Projeto desenvolvido com o objetivo de aumentar a segurança de crianças e adolescentes no ambiente digital. Utiliza inteligência artificial para identificar possíveis situações de risco nas redes sociais, classificar ameaças e enviar alertas aos responsáveis, buscando oferecer proteção sem comprometer a privacidade dos usuários.
 
-**Stack:** `Python`
+**Stack:** `Python` `Flutter` `Inteligência Artificial`
 
-[![Repo](https://github.com/Byel1904/Proteempreenda.git)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)]((https://github.com/Byel1904/Proteempreenda.git))
+
 
 <td width="50%" valign="top">
 
@@ -60,7 +61,7 @@ Plataforma web desenvolvida para o segmento fitness, com foco em oferecer uma ex
 
 **Tecnologias:** `HTML` `CSS` `Figma`
 
-[![Repositório](https://github.com/Byel1904/HeliosWeb_Academia.git)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)]((https://github.com/Byel1904/HeliosWeb_Academia.git))
 
 </td>
 </tr>
