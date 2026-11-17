@@ -48,7 +48,7 @@ Projeto desenvolvido com o objetivo de aumentar a segurança de crianças e adol
 
 **Stack:** `Python` `Flutter` `Inteligência Artificial`
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)]((https://github.com/Byel1904/Proteempreenda.git))
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Byel1904/Proteempreenda.git)
 
 
 <td width="50%" valign="top">
@@ -61,7 +61,7 @@ Plataforma web desenvolvida para o segmento fitness, com foco em oferecer uma ex
 
 **Tecnologias:** `HTML` `CSS` `Figma`
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)]((https://github.com/Byel1904/HeliosWeb_Academia.git))
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Byel1904/HeliosWeb_Academia)
 
 </td>
 </tr>
