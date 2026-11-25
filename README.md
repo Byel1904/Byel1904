@@ -1,6 +1,17 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F39C12,100:E74C3C&height=140&section=header" width="100%"/>
+
 <div align="center">
 
+# Gabryel
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F39C12&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Gabryel+%F0%9F%91%8B;Tech+%26+Development+Student+%F0%9F%9A%80;Python+Enthusiast;Always+learning%2C+always+building.)](https://git.io/typing-svg)
+
+<!-- Personagem animado: para usar um GIF seu, troque boneco.svg pelo nome do GIF (ex: luffy.gif) -->
+<img src="boneco.svg" alt="Boneco animado" width="180"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Byel1904&label=VISITAS+AO+PERFIL&color=F39C12&style=for-the-badge" alt="Visitas ao perfil"/>
 
 </div>
 
@@ -9,9 +20,6 @@
 ## 👨‍💻 Sobre mim
 
 Sou um jovem de 18 Anos, atualmente cursando o Técnico de Desenvolvimento de Sistemas. Gosto de resolver problemas do mundo real transformando ideias em aplicações funcionais. Gosto de entender como as coisas funcionam, identificar problemas e transformar ideias em aplicações reais. Tenho me dedicado ao desenvolvimento de projetos próprios, explorando desde a construção de interfaces e experiências de usuário até a lógica por trás das aplicações.
-
-
-
 
 - 🎓 Estudando **Técnico em Desenvolvimento de Sistemas - SENAC**
 - 🔨 Atualmente trabalhando em **Projetos próprios e novos desafios**
@@ -50,7 +58,7 @@ Projeto desenvolvido com o objetivo de aumentar a segurança de crianças e adol
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Byel1904/Proteempreenda.git)
 
-
+</td>
 <td width="50%" valign="top">
 
 ### 🏋️ Helios
@@ -108,7 +116,3 @@ Plataforma web desenvolvida para o segmento fitness, com foco em oferecer uma ex
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F39C12,100:E74C3C&height=100&section=footer" width="100%"/>
 
 </div>
-
-
-
- 
