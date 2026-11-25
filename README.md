@@ -102,5 +102,5 @@ Plataforma web desenvolvida para o segmento fitness, com foco em oferecer uma ex
 ---
 
 <div align="center">
-  <img src="Banner2.gif" width="100%"/>
+  <img src="Banner2.gif" width="70%"/>
 </div>
