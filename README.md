@@ -27,7 +27,7 @@ Sou um jovem de 18 Anos, atualmente cursando o Técnico de Desenvolvimento de Si
 ### 🧰 Tools & Environment
 [![Tool Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
----
+
 
 ## 📌 Projetos em destaque
 
