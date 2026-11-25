@@ -10,9 +10,6 @@
 
 Sou um jovem de 18 Anos, atualmente cursando o Técnico de Desenvolvimento de Sistemas. Gosto de resolver problemas do mundo real transformando ideias em aplicações funcionais. Gosto de entender como as coisas funcionam, identificar problemas e transformar ideias em aplicações reais. Tenho me dedicado ao desenvolvimento de projetos próprios, explorando desde a construção de interfaces e experiências de usuário até a lógica por trás das aplicações.
 
-
-
-
 - 🎓 Estudando **Técnico em Desenvolvimento de Sistemas - SENAC**
 - 🔨 Atualmente trabalhando em **Projetos próprios e novos desafios**
 - 🧠 Aprofundando meus conhecimentos em **Python, Java, JavaScript e Desenvolvimento web**
