@@ -1,9 +1,9 @@
 <div align="center">
  
-  <img src="mystic.gif" width="100%" />
+  <img src="giphy.gif" width="1000%" />
 
   <!-- Seu nome centralizado logo abaixo -->
-  <h1>Seu Nome Aqui</h1>
+  <h1>Gabryel Silva</h1>
 </div>
 
 ---
