@@ -1,6 +1,5 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=45&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&height=100&lines=Gabryel+Silva" />
+<div 
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=45&duration=2500&pause=1000&color=00BFFF&center=false&vCenter=true&width=600&height=100&lines=Gabryel+Silva" />
  
   <img src="Banner.gif" width="50%"/>
 
@@ -96,6 +95,6 @@ Plataforma web desenvolvida para o segmento fitness, com foco em oferecer uma ex
 
 ---
 
-<div align="center">
+<div
   <img src="Banner2.gif" width="100%"/>
 </div>
