@@ -102,10 +102,5 @@ Plataforma web desenvolvida para o segmento fitness, com foco em oferecer uma ex
 ---
 
 <div align="center">
-
-> *"Every line of code is one more step on the journey.  
-> I'm here to learn, build and grow."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F39C12,100:E74C3C&height=100&section=footer" width="100%"/>
-
+  <img src="Banner2.gif" width="100%"/>
 </div>
