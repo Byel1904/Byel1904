@@ -1,11 +1,10 @@
 <div align="center">
+
+  <h1>Gabryel Silva</h1>
  
   <img src="Banner.gif" width="50%"/>
 
-  <h1>Gabryel Silva</h1>
 </div>
-
----
 
 ## 👨‍💻 Sobre mim
 
