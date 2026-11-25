@@ -51,7 +51,7 @@ Projeto desenvolvido com o objetivo de aumentar a segurança de crianças e adol
 
 ### 🏋️ Helios
 
-> Plataforma de Gestão e Experiência Fitness
+> Plataforma de Gestão e Experiência Fitness 
 
 Plataforma web desenvolvida para o segmento fitness, com foco em oferecer uma experiência moderna e intuitiva aos alunos. Conta com apresentação de planos, opções de personalização de treinos e uma interface pensada para facilitar a navegação e a experiência do usuário.
 
