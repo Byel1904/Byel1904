@@ -1,6 +1,6 @@
 <div align="center">
  
-  <img src="https://pin.it/55yT6W8sg" width="100%" />
+  <img src="mystic.gif" width="100%" />
 
   <!-- Seu nome centralizado logo abaixo -->
   <h1>Seu Nome Aqui</h1>
