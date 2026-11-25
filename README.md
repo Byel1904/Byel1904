@@ -1,8 +1,7 @@
 <div align="center">
  
-  <img src="giphy.gif" width="100%" <h1>Gabryel Silva</h1> />
+  <img src="Banner.gif" width="100%"/>
 
-  <!-- Seu nome centralizado logo abaixo -->
   <h1>Gabryel Silva</h1>
 </div>
 
