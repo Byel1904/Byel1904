@@ -15,10 +15,9 @@ Sou um jovem de 18 Anos, atualmente cursando o Técnico de Desenvolvimento de Si
 - 🧠 Aprofundando meus conhecimentos em **Python, Java, JavaScript e Desenvolvimento web**
 - 📍 Localizado no **Brasil 🇧🇷**
 
----
 
 ## 🛠️ Tech Stack
-
+  
 ### 🌐 Frontend
 [![Frontend Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
