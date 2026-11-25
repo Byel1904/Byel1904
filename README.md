@@ -26,8 +26,6 @@ Sou um jovem de 18 Anos, atualmente cursando o Técnico de Desenvolvimento de Si
 ### 🧰 Tools & Environment
 [![Tool Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
-
-
 ## 📌 Projetos em destaque
 
 <div align="center">
@@ -64,8 +62,6 @@ Plataforma web desenvolvida para o segmento fitness, com foco em oferecer uma ex
 
 </div>
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -82,7 +78,6 @@ Plataforma web desenvolvida para o segmento fitness, com foco em oferecer uma ex
 
 </div>
 
----
 
 ## 📫 Let's Connect
 
@@ -93,8 +88,7 @@ Plataforma web desenvolvida para o segmento fitness, com foco em oferecer uma ex
 
 </div>
 
----
 
 <div>
-  <img src="lu.gif" width="50%"/>
+  <img src="lu.gif" width="100%"/>
 </div>
