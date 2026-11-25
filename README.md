@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Gabryel Silva</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=45&duration=2500&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=Gabryel+Silva" />
  
   <img src="Banner.gif" width="50%"/>
 
