@@ -1,7 +1,9 @@
 <div align="center">
+ 
+  <img src="https://pin.it/55yT6W8sg" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F39C12&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Gabryel+%F0%9F%91%8B;Tech+%26+Development+Student+%F0%9F%9A%80;Python+Enthusiast;Always+learning%2C+always+building.)](https://git.io/typing-svg)
-
+  <!-- Seu nome centralizado logo abaixo -->
+  <h1>Seu Nome Aqui</h1>
 </div>
 
 ---
