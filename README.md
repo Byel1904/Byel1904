@@ -1,6 +1,6 @@
 <div align="center">
  
-  <img src="Banner.gif" width="100%"/>
+  <img src="Banner.gif" width="50%"/>
 
   <h1>Gabryel Silva</h1>
 </div>
