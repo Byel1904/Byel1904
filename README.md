@@ -1,10 +1,7 @@
  <div align="center">
 
   <img src="BAnner1.gif" width="100%"/>
-
-  <br>
-
-  <h1>Gabryel Silva</h1>
+  
   <h3>Estudante de Desenvolvimento de Sistemas | Desenvolvedor em formação</h3>
 
   <img src="https://img.shields.io/badge/Status-Em%20desenvolvimento-F39C12?style=for-the-badge"/>
