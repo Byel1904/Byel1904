@@ -142,7 +142,7 @@ Conta com apresentação de planos, opções de personalização de treinos e um
 
 [![GitHub](https://img.shields.io/badge/GitHub-Byel1904-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Byel1904)
 [![Instagram](https://img.shields.io/badge/Instagram-@byllclh__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/byllclh__/)
-[![Email](https://img.shields.io/badge/Email-Entre_em_contato-F39C12?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
+[![Email](https://img.shields.io/badge/Email-Entre_em_contato-F39C12?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabryelsilva845@gmail.com)
 
 </div>
 
@@ -151,9 +151,5 @@ Conta com apresentação de planos, opções de personalização de treinos e um
 <div align="center">
 
   <h3>Obrigado pela visita!</h3>
-
-  <p>Transformando ideias em projetos, um passo de cada vez.</p>
-
-  <img src="lu.gif" width="100%"/>
 
 </div>
