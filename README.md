@@ -1,39 +1,54 @@
-<div align="center">
+ <div align="center">
 
   <img src="BAnner1.gif" width="100%"/>
 
 </div>
 
+---
+
 ## 👨‍💻 Sobre mim
 
 Sou um jovem de 18 Anos, atualmente cursando o Técnico de Desenvolvimento de Sistemas. Gosto de resolver problemas do mundo real transformando ideias em aplicações funcionais. Gosto de entender como as coisas funcionam, identificar problemas e transformar ideias em aplicações reais. Tenho me dedicado ao desenvolvimento de projetos próprios, explorando desde a construção de interfaces e experiências de usuário até a lógica por trás das aplicações.
+
+<div align="left">
 
 - 🎓 Estudando **Técnico em Desenvolvimento de Sistemas - SENAC**
 - 🔨 Atualmente trabalhando em **Projetos próprios e novos desafios**
 - 🧠 Aprofundando meus conhecimentos em **Python, Java, JavaScript e Desenvolvimento web**
 - 📍 Localizado no **Brasil 🇧🇷**
 
+</div>
+
+---
 
 ## 🛠️ Tech Stack
-  
+
+<div align="center">
+
 ### 🌐 Frontend
+
 [![Frontend Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 ### ⚙️ Backend & Languages
+
 [![Backend Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
 ### 🧰 Tools & Environment
+
 [![Tool Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
-## 📌 Projetos em destaque
+</div>
 
-<div align="center">
+---
+
+## 📌 Projetos em destaque
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🛡️ GuardianNet
+
 > Proteção Digital com Inteligência Artificial
 
 Projeto desenvolvido com o objetivo de aumentar a segurança de crianças e adolescentes no ambiente digital. Utiliza inteligência artificial para identificar possíveis situações de risco nas redes sociais, classificar ameaças e enviar alertas aos responsáveis, buscando oferecer proteção sem comprometer a privacidade dos usuários.
@@ -42,12 +57,12 @@ Projeto desenvolvido com o objetivo de aumentar a segurança de crianças e adol
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Byel1904/Proteempreenda.git)
 
-
+</td>
 <td width="50%" valign="top">
 
 ### 🏋️ Helios
 
-> Plataforma de Gestão e Experiência Fitness 
+> Plataforma de Gestão e Experiência Fitness
 
 Plataforma web desenvolvida para o segmento fitness, com foco em oferecer uma experiência moderna e intuitiva aos alunos. Conta com apresentação de planos, opções de personalização de treinos e uma interface pensada para facilitar a navegação e a experiência do usuário.
 
@@ -59,7 +74,7 @@ Plataforma web desenvolvida para o segmento fitness, com foco em oferecer uma ex
 </tr>
 </table>
 
-</div>
+---
 
 ## 📊 GitHub Stats
 
@@ -77,6 +92,7 @@ Plataforma web desenvolvida para o segmento fitness, com foco em oferecer uma ex
 
 </div>
 
+---
 
 ## 📫 Let's Connect
 
@@ -87,7 +103,10 @@ Plataforma web desenvolvida para o segmento fitness, com foco em oferecer uma ex
 
 </div>
 
+---
 
-<div>
+<div align="center">
+
   <img src="lu.gif" width="100%"/>
+
 </div>
