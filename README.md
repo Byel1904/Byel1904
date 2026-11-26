@@ -1,7 +1,6 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=PressStart2P&weight=700&size=45&duration=2500&pause=1000&color=023BE6&center=true&vCenter=true&width=600&height=100&lines=Gabryel+Silva" />
- 
-  <img src="Banner.gif" width="50%"/>
+
+  <img src="Banner.gif" width="100%"/>
 
 </div>
 
