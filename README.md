@@ -100,16 +100,15 @@ Conta com apresentação de planos, opções de personalização de treinos e um
 </table>
 
 ---
-
 ## 📄 Currículo profissional
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/CURRÍCULO-GABRYEL_SILVA-F39C12?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Currículo-Gabryel-F39C12?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 
   <p>Conheça minha formação, conhecimentos técnicos e qualificações profissionais.</p>
 
-  <a href="docs/Curriculo-Gabryel-Silva.pdf">
+  <a href="./Curriculo_Gabryel.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Visualizar_Currículo-0D1117?style=for-the-badge&logo=googledocs&logoColor=F39C12"/>
   </a>
 
