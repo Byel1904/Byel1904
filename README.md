@@ -94,6 +94,13 @@ Plataforma web desenvolvida para o segmento fitness, com foco em oferecer uma ex
 
 </div>
 
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Byel1904&theme=tokyonight&hide_border=true&background=0D1117&stroke=F39C12&ring=F39C12&fire=E74C3C&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=888888)
+
+</div>
+
+
 ---
 
 ## 📫 Let's Connect
