@@ -138,12 +138,9 @@ Conta com apresentação de planos, opções de personalização de treinos e um
 
 **Estou aberto a conexões profissionais, oportunidades e novos desafios na área de tecnologia.**
 
-<br>
-
 [![GitHub](https://img.shields.io/badge/GitHub-Byel1904-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Byel1904)
 [![Instagram](https://img.shields.io/badge/Instagram-@byllclh__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/byllclh__/)
-[![Email](https://img.shields.io/badge/Email-Entre_em_contato-F39C12?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabryelsilva845@gmail.com)
-
+[![Email](https://img.shields.io/badge/Email-Entre_em_contato-F39C12?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=gabryelsilva845@gmail.com)
 </div>
 
 ---
