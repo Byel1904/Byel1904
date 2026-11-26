@@ -19,10 +19,6 @@ Sou um jovem de 18 Anos, atualmente cursando o Técnico de Desenvolvimento de Si
 
 </div>
 
----
-
-## 🛠️ Tech Stack
-
 <div align="center">
 
 ### 🌐 Frontend
@@ -31,7 +27,19 @@ Sou um jovem de 18 Anos, atualmente cursando o Técnico de Desenvolvimento de Si
 
 ### ⚙️ Backend & Languages
 
-[![Backend Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=python,java)](https://skillicons.dev)
+
+### 📱 Mobile Development
+
+[![Mobile Skills](https://skillicons.dev/icons?i=flutter,dart)](https://skillicons.dev)
+
+### 🗄️ Databases
+
+[![Database Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
+
+### 🎨 Design
+
+[![Design Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
 ### 🧰 Tools & Environment
 
