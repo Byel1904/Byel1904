@@ -19,7 +19,7 @@ Sou um jovem de 18 Anos, atualmente cursando o Técnico de Desenvolvimento de Si
 
 </div>
 
-<div align="center">
+<div>
 
 ### 🌐 Frontend
 
