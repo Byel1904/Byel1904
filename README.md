@@ -2,54 +2,69 @@
 
   <img src="BAnner1.gif" width="100%"/>
 
+  <br>
+
+  <h1>Gabryel Silva</h1>
+  <h3>Estudante de Desenvolvimento de Sistemas | Desenvolvedor em formação</h3>
+
+  <img src="https://img.shields.io/badge/Status-Em%20desenvolvimento-F39C12?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Localização-Brasil-0D1117?style=for-the-badge&logo=googlemaps&logoColor=F39C12"/>
+
 </div>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou um jovem de 18 Anos, atualmente cursando o Técnico de Desenvolvimento de Sistemas. Gosto de resolver problemas do mundo real transformando ideias em aplicações funcionais. Gosto de entender como as coisas funcionam, identificar problemas e transformar ideias em aplicações reais. Tenho me dedicado ao desenvolvimento de projetos próprios, explorando desde a construção de interfaces e experiências de usuário até a lógica por trás das aplicações.
+Sou estudante de **Técnico em Desenvolvimento de Sistemas pelo SENAC**, com interesse em tecnologia, desenvolvimento de software e resolução de problemas reais.
 
-<div align="left">
+Gosto de entender como as aplicações funcionam, desenvolver soluções e transformar ideias em projetos funcionais. Tenho me dedicado à construção de projetos próprios, explorando desenvolvimento web, aplicações mobile, bancos de dados e experiência do usuário.
 
-- 🎓 Estudando **Técnico em Desenvolvimento de Sistemas - SENAC**
-- 🔨 Atualmente trabalhando em **Projetos próprios e novos desafios**
-- 🧠 Aprofundando meus conhecimentos em **Python, Java, JavaScript e Desenvolvimento web**
-- 📍 Localizado no **Brasil 🇧🇷**
+Atualmente, busco ampliar meus conhecimentos técnicos e desenvolver habilidades que contribuam para minha evolução profissional.
 
-</div>
+- 🎓 **Formação:** Técnico em Desenvolvimento de Sistemas — SENAC
+- 💻 **Foco:** Desenvolvimento Web, Mobile e Software
+- 🧠 **Estudando:** Python, Java, JavaScript e desenvolvimento de aplicações
+- 🚀 **Objetivo:** Evolução profissional e novos desafios na área de tecnologia
+- 📍 **Localização:** Brasil 🇧🇷
 
-<div>
+---
+
+## 🛠️ Tecnologias e ferramentas
+
+<div align="center">
 
 ### 🌐 Frontend
 
-[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 ### ⚙️ Backend & Languages
 
-[![Backend Skills](https://skillicons.dev/icons?i=python,java)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=python,java)](https://skillicons.dev)
 
 ### 📱 Mobile Development
 
-[![Mobile Skills](https://skillicons.dev/icons?i=flutter,dart)](https://skillicons.dev)
+[![Mobile](https://skillicons.dev/icons?i=flutter,dart)](https://skillicons.dev)
 
 ### 🗄️ Databases
 
-[![Database Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
 
 ### 🎨 Design
 
-[![Design Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+[![Design](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
-### 🧰 Tools & Environment
+### 🧰 Tools & Version Control
 
-[![Tool Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
 </div>
 
 ---
 
-## 📌 Projetos em destaque
+## 🚀 Projetos em destaque
+
+Projetos desenvolvidos para aplicar conhecimentos técnicos, explorar novas tecnologias e solucionar problemas.
 
 <table>
 <tr>
@@ -57,34 +72,58 @@ Sou um jovem de 18 Anos, atualmente cursando o Técnico de Desenvolvimento de Si
 
 ### 🛡️ GuardianNet
 
-> Proteção Digital com Inteligência Artificial
+**Proteção Digital com Inteligência Artificial**
 
-Projeto desenvolvido com o objetivo de aumentar a segurança de crianças e adolescentes no ambiente digital. Utiliza inteligência artificial para identificar possíveis situações de risco nas redes sociais, classificar ameaças e enviar alertas aos responsáveis, buscando oferecer proteção sem comprometer a privacidade dos usuários.
+Projeto desenvolvido com o objetivo de aumentar a segurança de crianças e adolescentes no ambiente digital.
 
-**Stack:** `Python` `Flutter` `Inteligência Artificial`
+Utiliza inteligência artificial para identificar possíveis situações de risco nas redes sociais, classificar ameaças e enviar alertas aos responsáveis, buscando oferecer proteção sem comprometer a privacidade dos usuários.
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Byel1904/Proteempreenda.git)
+**Tecnologias utilizadas:**
+
+`Python` `Flutter` `Inteligência Artificial`
+
+[![Ver repositório](https://img.shields.io/badge/VER_PROJETO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Byel1904/Proteempreenda.git)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🏋️ Helios
 
-> Plataforma de Gestão e Experiência Fitness
+**Plataforma de Gestão e Experiência Fitness**
 
-Plataforma web desenvolvida para o segmento fitness, com foco em oferecer uma experiência moderna e intuitiva aos alunos. Conta com apresentação de planos, opções de personalização de treinos e uma interface pensada para facilitar a navegação e a experiência do usuário.
+Plataforma web desenvolvida para o segmento fitness, com foco em oferecer uma experiência moderna e intuitiva aos alunos.
 
-**Tecnologias:** `HTML` `CSS` `Figma`
+Conta com apresentação de planos, opções de personalização de treinos e uma interface pensada para facilitar a navegação e a experiência do usuário.
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Byel1904/HeliosWeb_Academia)
+**Tecnologias utilizadas:**
+
+`HTML` `CSS` `Figma`
+
+[![Ver repositório](https://img.shields.io/badge/VER_PROJETO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Byel1904/HeliosWeb_Academia)
 
 </td>
 </tr>
 </table>
 
+---
 
-## 📊 GitHub Stats
+## 📄 Currículo profissional
 
+<div align="center">
+
+  <img src="https://img.shields.io/badge/CURRÍCULO-GABRYEL_SILVA-F39C12?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+
+  <p>Conheça minha formação, conhecimentos técnicos e qualificações profissionais.</p>
+
+  <a href="docs/Curriculo-Gabryel-Silva.pdf">
+    <img src="https://img.shields.io/badge/Visualizar_Currículo-0D1117?style=for-the-badge&logo=googledocs&logoColor=F39C12"/>
+  </a>
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -92,21 +131,36 @@ Plataforma web desenvolvida para o segmento fitness, com foco em oferecer uma ex
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Byel1904&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F39C12&text_color=FFFFFF"/>
 
-</div>
-
-<div align="center">
+<br>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Byel1904&theme=tokyonight&hide_border=true&background=0D1117&stroke=F39C12&ring=F39C12&fire=E74C3C&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=888888)
 
 </div>
 
+---
 
-## 📫 Let's Connect
+## 📬 Entre em contato
 
 <div align="center">
 
+**Estou aberto a conexões profissionais, oportunidades e novos desafios na área de tecnologia.**
+
+<br>
+
 [![GitHub](https://img.shields.io/badge/GitHub-Byel1904-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Byel1904)
 [![Instagram](https://img.shields.io/badge/Instagram-@byllclh__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/byllclh__/)
+[![Email](https://img.shields.io/badge/Email-Entre_em_contato-F39C12?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
 
 </div>
 
+---
+
+<div align="center">
+
+  <h3>Obrigado pela visita!</h3>
+
+  <p>Transformando ideias em projetos, um passo de cada vez.</p>
+
+  <img src="lu.gif" width="100%"/>
+
+</div>
