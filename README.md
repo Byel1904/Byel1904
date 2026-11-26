@@ -101,8 +101,6 @@ Plataforma web desenvolvida para o segmento fitness, com foco em oferecer uma ex
 </div>
 
 
----
-
 ## 📫 Let's Connect
 
 <div align="center">
@@ -112,10 +110,3 @@ Plataforma web desenvolvida para o segmento fitness, com foco em oferecer uma ex
 
 </div>
 
----
-
-<div align="center">
-
-  <img src="lu.gif" width="100%"/>
-
-</div>
