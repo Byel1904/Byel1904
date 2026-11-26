@@ -9,8 +9,6 @@
 
 </div>
 
----
-
 ## 👨‍💻 Sobre mim
 
 Sou estudante de **Técnico em Desenvolvimento de Sistemas pelo SENAC**, com interesse em tecnologia, desenvolvimento de software e resolução de problemas reais.
@@ -29,7 +27,7 @@ Atualmente, busco ampliar meus conhecimentos técnicos e desenvolver habilidades
 
 ## 🛠️ Tecnologias e ferramentas
 
-<div align="center">
+<div>
 
 ### 🌐 Frontend
 
@@ -57,7 +55,6 @@ Atualmente, busco ampliar meus conhecimentos técnicos e desenvolver habilidades
 
 </div>
 
----
 
 ## 🚀 Projetos em destaque
 
