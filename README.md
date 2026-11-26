@@ -86,13 +86,23 @@ Plataforma web desenvolvida para o segmento fitness, com foco em oferecer uma ex
 
 ## 📊 GitHub Stats
 
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Byel1904&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F39C12&icon_color=F39C12&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Byel1904&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=F39C12&icon_color=F39C12&text_color=FFFFFF"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Byel1904&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F39C12&text_color=FFFFFF"/>
 
 </div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Byel1904&theme=tokyonight&hide_border=true&background=0D1117&stroke=F39C12&ring=F39C12&fire=E74C3C&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=888888)
+
+</div>
+
+---
+
 
 <div align="center">
 
